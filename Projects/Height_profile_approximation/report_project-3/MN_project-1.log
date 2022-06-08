@@ -1,0 +1,540 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2022.3.20)  21 MAY 2022 01:46
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/IV-semestr/Metody Numeryczne/Projekt/Project_3/report_project-3/MN_project-1.tex"
+(d:/IV-semestr/Metody Numeryczne/Projekt/Project_3/report_project-3/MN_project-1.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (d:/Program Files/texlive/2021/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(d:/Program Files/texlive/2021/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen138
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip49
+\thanksmargin=\skip50
+\droptitle=\skip51
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty (d:/Program Files/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (d:/Program Files/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count194
+\l__lipsum_a_int=\count195
+\l__lipsum_b_int=\count196
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/polski/polski.sty
+Package: polski 2021/08/25 v1.3.6 Polish language package
+
+   Inputenc package detected. Catcodes not changed.
+   Switching to Polish text encoding and Polish maths fonts.
+(d:/Program Files/texlive/2021/texmf-dist/tex/latex/base/ot4enc.def
+File: ot4enc.def 2021/04/29 v2.0v Standard LaTeX file
+Now handling font encoding OT4 ...
+... no UTF-8 mapping file for font encoding OT4
+)
+LaTeX Font Info:    Trying to load font information for OT4+cmr on input line 362.
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/polski/ot4cmr.fd
+File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT4/cmss/m/n on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT4/cmr/m/it on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT4/cmtt/m/n on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT4/cmss/bx/n on input line 362.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT4/cmr/bx/it on input line 362.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `normal' on input line 362.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT4/cmr/m/n on input line 362.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/plm/m/it on input line 362.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/plsy/m/n on input line 362.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/plex/m/n on input line 362.
+LaTeX Font Info:    Encoding `OT1' has changed to `OT4' for symbol font
+(Font)              `operators' in the math version `bold' on input line 362.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT4/cmr/bx/n on input line 362.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/plm/b/it on input line 362.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 362.
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) (d:/Program Files/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (d:/Program Files/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count197
+\Gm@cntv=\count198
+\c@Gm@tempcnt=\count199
+\Gm@bindingoffset=\dimen140
+\Gm@wd@mp=\dimen141
+\Gm@odd@mp=\dimen142
+\Gm@even@mp=\dimen143
+\Gm@layoutwidth=\dimen144
+\Gm@layoutheight=\dimen145
+\Gm@layouthoffset=\dimen146
+\Gm@layoutvoffset=\dimen147
+\Gm@dimlist=\toks19
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen150
+\WF@size=\dimen151
+\c@WF@wrappedlines=\count266
+\WF@box=\box51
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count267
+\float@exts=\toks21
+\float@box=\box52
+\@float@everytoks=\toks22
+\@floatcapt=\box53
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(d:/Program Files/texlive/2021/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen152
+)) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count268
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count269
+\leftroot@=\count270
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count271
+\DOTSCASE@=\count272
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count273
+\c@MaxMatrixCols=\count274
+\dotsspace@=\muskip16
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
+\tag@help=\toks24
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
+\andhelp@=\toks25
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks26
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip55
+\multirow@cntb=\count280
+\multirow@dima=\skip56
+\bigstrutjot=\dimen161
+) (./MN_project-1.aux)
+\openout1 = `MN_project-1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=731.23582pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(d:/Program Files/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen162
+\scratchbox=\box56
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen163
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks29
+) (d:/Program Files/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+<./wykresy//WielkiKanionKolorado.png, id=1, 462.528pt x 346.896pt>
+File: ./wykresy//WielkiKanionKolorado.png Graphic file (type png)
+<use ./wykresy//WielkiKanionKolorado.png>
+Package pdftex.def Info: ./wykresy//WielkiKanionKolorado.png  used on input line 50.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//MountEverest.png, id=3, 462.528pt x 346.896pt>
+File: ./wykresy//MountEverest.png Graphic file (type png)
+<use ./wykresy//MountEverest.png>
+Package pdftex.def Info: ./wykresy//MountEverest.png  used on input line 57.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [1
+
+{d:/Program Files/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./wykresy//WielkiKanionKolorado.png>]
+<./wykresy//chelm.png, id=14, 462.528pt x 346.896pt>
+File: ./wykresy//chelm.png Graphic file (type png)
+<use ./wykresy//chelm.png>
+Package pdftex.def Info: ./wykresy//chelm.png  used on input line 64.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//SpacerniakGdansk.png, id=15, 462.528pt x 346.896pt>
+File: ./wykresy//SpacerniakGdansk.png Graphic file (type png)
+<use ./wykresy//SpacerniakGdansk.png>
+Package pdftex.def Info: ./wykresy//SpacerniakGdansk.png  used on input line 71.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [2 <./wykresy//MountEverest.png> <./wykresy//chelm.png>]
+LaTeX Font Info:    Trying to load font information for OML+plm on input line 81.
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/polski/omlplm.fd
+File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMS+plsy on input line 81.
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/polski/omsplsy.fd
+File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    Trying to load font information for OMX+plex on input line 81.
+ (d:/Program Files/texlive/2021/texmf-dist/tex/latex/polski/omxplex.fd
+File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
+)
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <12> on input line 81.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <8> on input line 81.
+LaTeX Font Info:    External font `plex10' loaded for size
+(Font)              <6> on input line 81.
+ [3 <./wykresy//SpacerniakGdansk.png>]
+<./wykresy//interpolation_MountEverest_Lagrange_3.png, id=31, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Lagrange_3.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Lagrange_3.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Lagrange_3.png  used on input line 91.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_MountEverest_Lagrange_6.png, id=32, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Lagrange_6.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Lagrange_6.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Lagrange_6.png  used on input line 96.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_MountEverest_Lagrange_11.png, id=33, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Lagrange_11.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Lagrange_11.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Lagrange_11.png  used on input line 101.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_MountEverest_Lagrange_35.png, id=34, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Lagrange_35.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Lagrange_35.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Lagrange_35.png  used on input line 106.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [4 <./wykresy//interpolation_MountEverest_Lagrange_3.png> <./wykresy//interpolation_MountEverest_Lagrange_6.png>]
+<./wykresy//interpolation_MountEverest_Lagrange_52.png, id=40, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Lagrange_52.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Lagrange_52.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Lagrange_52.png  used on input line 111.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_MountEverest_Lagrange_103.png, id=41, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Lagrange_103.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Lagrange_103.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Lagrange_103.png  used on input line 116.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [5 <./wykresy//interpolation_MountEverest_Lagrange_11.png> <./wykresy//interpolation_MountEverest_Lagrange_35.png>]
+<./wykresy//interpolation_SpacerniakGdansk_Lagrange_3.png, id=47, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_3.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Lagrange_3.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_3.png  used on input line 124.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [6 <./wykresy//interpolation_MountEverest_Lagrange_52.png> <./wykresy//interpolation_MountEverest_Lagrange_103.png>]
+<./wykresy//interpolation_SpacerniakGdansk_Lagrange_6.png, id=53, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_6.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Lagrange_6.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_6.png  used on input line 129.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+File: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_6.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Lagrange_6.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_6.png  used on input line 134.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_SpacerniakGdansk_Lagrange_11.png, id=54, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_11.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Lagrange_11.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_11.png  used on input line 139.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [7 <./wykresy//interpolation_SpacerniakGdansk_Lagrange_3.png> <./wykresy//interpolation_SpacerniakGdansk_Lagrange_6.png>]
+<./wykresy//interpolation_SpacerniakGdansk_Lagrange_35.png, id=61, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_35.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Lagrange_35.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_35.png  used on input line 144.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_SpacerniakGdansk_Lagrange_52.png, id=62, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_52.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Lagrange_52.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_52.png  used on input line 149.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [8 <./wykresy//interpolation_SpacerniakGdansk_Lagrange_11.png>]
+<./wykresy//interpolation_SpacerniakGdansk_Lagrange_103.png, id=67, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_103.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Lagrange_103.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Lagrange_103.png  used on input line 154.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [9 <./wykresy//interpolation_SpacerniakGdansk_Lagrange_35.png> <./wykresy//interpolation_SpacerniakGdansk_Lagrange_52.png>] [10 <./wykresy//interpolation_SpacerniakGdansk_Lagrange_103.png>]
+<./wykresy//interpolation_MountEverest_Spline_3.png, id=77, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Spline_3.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Spline_3.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Spline_3.png  used on input line 169.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_MountEverest_Spline_6.png, id=78, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Spline_6.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Spline_6.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Spline_6.png  used on input line 174.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_MountEverest_Spline_11.png, id=79, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Spline_11.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Spline_11.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Spline_11.png  used on input line 179.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_MountEverest_Spline_35.png, id=80, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Spline_35.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Spline_35.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Spline_35.png  used on input line 184.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [11 <./wykresy//interpolation_MountEverest_Spline_3.png> <./wykresy//interpolation_MountEverest_Spline_6.png>]
+<./wykresy//interpolation_MountEverest_Spline_52.png, id=86, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Spline_52.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Spline_52.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Spline_52.png  used on input line 189.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_MountEverest_Spline_103.png, id=87, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_MountEverest_Spline_103.png Graphic file (type png)
+<use ./wykresy//interpolation_MountEverest_Spline_103.png>
+Package pdftex.def Info: ./wykresy//interpolation_MountEverest_Spline_103.png  used on input line 194.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [12 <./wykresy//interpolation_MountEverest_Spline_11.png> <./wykresy//interpolation_MountEverest_Spline_35.png>]
+<./wykresy//interpolation_SpacerniakGdansk_Spline_3.png, id=93, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Spline_3.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Spline_3.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Spline_3.png  used on input line 202.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [13 <./wykresy//interpolation_MountEverest_Spline_52.png> <./wykresy//interpolation_MountEverest_Spline_103.png>]
+<./wykresy//interpolation_SpacerniakGdansk_Spline_6.png, id=100, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Spline_6.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Spline_6.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Spline_6.png  used on input line 207.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_SpacerniakGdansk_Spline_11.png, id=101, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Spline_11.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Spline_11.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Spline_11.png  used on input line 212.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_SpacerniakGdansk_Spline_35.png, id=102, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Spline_35.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Spline_35.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Spline_35.png  used on input line 217.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [14 <./wykresy//interpolation_SpacerniakGdansk_Spline_3.png> <./wykresy//interpolation_SpacerniakGdansk_Spline_6.png>]
+<./wykresy//interpolation_SpacerniakGdansk_Spline_52.png, id=108, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Spline_52.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Spline_52.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Spline_52.png  used on input line 222.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_SpacerniakGdansk_Spline_103.png, id=109, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_SpacerniakGdansk_Spline_103.png Graphic file (type png)
+<use ./wykresy//interpolation_SpacerniakGdansk_Spline_103.png>
+Package pdftex.def Info: ./wykresy//interpolation_SpacerniakGdansk_Spline_103.png  used on input line 227.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [15 <./wykresy//interpolation_SpacerniakGdansk_Spline_11.png> <./wykresy//interpolation_SpacerniakGdansk_Spline_35.png>]
+<./wykresy//interpolation_chelm_Spline_3.png, id=115, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_chelm_Spline_3.png Graphic file (type png)
+<use ./wykresy//interpolation_chelm_Spline_3.png>
+Package pdftex.def Info: ./wykresy//interpolation_chelm_Spline_3.png  used on input line 235.
+(pdftex.def)             Requested size: 300.63962pt x 225.47972pt.
+ [16 <./wykresy//interpolation_SpacerniakGdansk_Spline_52.png> <./wykresy//interpolation_SpacerniakGdansk_Spline_103.png>]
+<./wykresy//interpolation_chelm_Spline_6.png, id=121, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_chelm_Spline_6.png Graphic file (type png)
+<use ./wykresy//interpolation_chelm_Spline_6.png>
+Package pdftex.def Info: ./wykresy//interpolation_chelm_Spline_6.png  used on input line 240.
+(pdftex.def)             Requested size: 300.63962pt x 225.47972pt.
+<./wykresy//interpolation_chelm_Spline_11.png, id=122, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_chelm_Spline_11.png Graphic file (type png)
+<use ./wykresy//interpolation_chelm_Spline_11.png>
+Package pdftex.def Info: ./wykresy//interpolation_chelm_Spline_11.png  used on input line 245.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_chelm_Spline_35.png, id=123, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_chelm_Spline_35.png Graphic file (type png)
+<use ./wykresy//interpolation_chelm_Spline_35.png>
+Package pdftex.def Info: ./wykresy//interpolation_chelm_Spline_35.png  used on input line 250.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [17 <./wykresy//interpolation_chelm_Spline_3.png> <./wykresy//interpolation_chelm_Spline_6.png>]
+<./wykresy//interpolation_chelm_Spline_52.png, id=129, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_chelm_Spline_52.png Graphic file (type png)
+<use ./wykresy//interpolation_chelm_Spline_52.png>
+Package pdftex.def Info: ./wykresy//interpolation_chelm_Spline_52.png  used on input line 255.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+<./wykresy//interpolation_chelm_Spline_103.png, id=130, 462.528pt x 346.896pt>
+File: ./wykresy//interpolation_chelm_Spline_103.png Graphic file (type png)
+<use ./wykresy//interpolation_chelm_Spline_103.png>
+Package pdftex.def Info: ./wykresy//interpolation_chelm_Spline_103.png  used on input line 260.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+ [18 <./wykresy//interpolation_chelm_Spline_11.png> <./wykresy//interpolation_chelm_Spline_35.png>] [19 <./wykresy//interpolation_chelm_Spline_52.png> <./wykresy//interpolation_chelm_Spline_103.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 265--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--275
+
+ []
+
+[20] (./MN_project-1.aux) ) 
+Here is how much of TeX's memory you used:
+ 4362 strings out of 478276
+ 83188 string characters out of 5843469
+ 452599 words of memory out of 5000000
+ 22477 multiletter control sequences out of 15000+600000
+ 477086 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,8n,77p,781b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/Program Files/texlive/2021/texmf-dist/fonts/enc/dvips/pl/plms.enc}{d:/Program Files/texlive/2021/texmf-dist/fonts/enc/dvips/pl/plme.enc}{d:/Program Files/texlive/2021/texmf-dist/fonts/enc/dvips/pl/plrm.enc}{d:/Program Files/texlive/2021/texmf-dist/fonts/enc/dvips/pl/plmi.enc}{d:/Program Files/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/pl/plbx12.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/pl/plex10.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/pl/plmi12.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/pl/plmi8.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/pl/plr12.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/pl/plr17.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/pl/plr8.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/pl/plsy10.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/pl/plsy8.pfb><d:/Program Files/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on MN_project-1.pdf (20 pages, 1093730 bytes).
+PDF statistics:
+ 193 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 171 words of extra memory for PDF output out of 10000 (max. 10000000)
+
